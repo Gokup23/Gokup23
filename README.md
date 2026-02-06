@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc1ZWR2aW5oN3c1ZWR2aW5oN3c1ZWR2aW5oN3c1ZWR2aW5oN3c1LzFqS0dPTTROTTRRL2dpcGh5LmdpZg/1jKGOM4NM4Q/giphy.gif" alt="BMO" width="200" />
+  <img src="https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif" alt="BMO" width="200" />
   <br>
   SYSTEM ONLINE: GOPAL.EXE
 </h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gokup23&label=PLAYERS%20ONLINE&color=6ad7a6&style=flat-square" alt="Gokup23" />
+  <img src="https://komarev.com/ghpvc/?username=Gokup23&label=PLAYERS%20ONLINE&color=00Cba9&style=flat-square" alt="Gokup23" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 ### 👾 PLAYER 1: ABOUT ME
 - 🛠️ Current Quest: **Create projects and DIY them.**
 - 🎓 Skill Tree: **AI & Machine Learning.**
-- 🌟 Main Objective: **Evolving myself.**
+- 🌟 Main Objective: **Upgrading myself.**
 
 ---
 
@@ -36,12 +36,12 @@
 
 ### 📟 STATS MONITOR
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokup23&theme=dark&hide_border=true&background=181818&ring=6ad7a6&fire=6ad7a6&currStreakLabel=6ad7a6&currStreakNum=ffffff&sideLabels=6ad7a6&sideNums=ffffff&dates=6ad7a6" alt="BMO Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokup23&theme=dark&hide_border=true&background=181818&ring=00Cba9&fire=00Cba9&currStreakLabel=00Cba9&currStreakNum=ffffff&sideLabels=00Cba9&sideNums=ffffff&dates=00Cba9" alt="GitHub Streak" />
 </p>
 
 ---
 
-###  DAILY DATA
+### 💭 DAILY DATA
 <div align="center">
   <samp><i>"You are absolutely capable of creating the life you can't stop thinking about."</i></samp>
 </div>

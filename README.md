@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Gopal 👋</h1>
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineering+Student;Building+The+Future;1%25+Better+Every+Day;Creating+Projects+%26+Myself&font=Fira+Code&center=true&width=500&height=50&color=F05033&vCenter=true&size=24" alt="Typing SVG" />
-  </a>
-</h3>
+
+<div align="center">
+  <img src="YOUR_ADVENTURE_TIME_IMAGE_LINK_HERE.jpg" alt="Finn and Jake" width="600" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gokup23&label=Profile%20Views&color=F05033&style=flat" alt="Gokup23" />
@@ -31,11 +30,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokup23&theme=radical&hide_border=true&include_all_commits=true&count_private=false" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokup23&theme=radical&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokup23&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 </p>
 
 ### 🏆 Trophies

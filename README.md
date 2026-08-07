@@ -4,7 +4,10 @@
 <br />
 <img src="https://readme-typing-svg.demolab.com?font=Pinyon+Script&size=80&pause=99999&color=00CBA9&center=true&vCenter=true&repeat=false&width=600&height=110&lines=Gopal+Parik" alt="Gopal Parik" />
 <br />
-<sub><i>The way you do anything, is the way you do everything.</i></sub>
+<sub><i>The way you do anything, is the way you do everything."It's all maths??"
+
+
+"It Always was"</i></sub>
  
 <br />
 <br />
